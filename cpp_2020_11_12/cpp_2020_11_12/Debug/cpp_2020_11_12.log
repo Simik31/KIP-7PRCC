@@ -1,0 +1,3 @@
+﻿C:\Programs\Microsoft Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (zoo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cpp_2020_11_12.cpp
+  cpp_2020_11_12.vcxproj -> C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_2020_11_12\Debug\cpp_2020_11_12.exe

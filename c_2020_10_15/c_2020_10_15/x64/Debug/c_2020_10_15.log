@@ -1,0 +1,14 @@
+﻿  c_2020_10_15.c
+  dynamickaMatice.c
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\c_2020_10_15\dynamickaMatice.c(6,74): warning C4098: 'dynamicka_matice': 'void' function returning a value
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\c_2020_10_15\dynamickaMatice.c(16,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\c_2020_10_15\dynamickaMatice.c(16,18): warning C4024: 'arrayDestroy': different types for formal and actual parameter 1
+  dynamickePole.c
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\c_2020_10_15\dynamickePole.c(5,71): warning C4098: 'dynamicke_pole': 'void' function returning a value
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\c_2020_10_15\dynamickePole.c(7,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  my.c
+  statickaMatice.c
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\c_2020_10_15\statickaMatice.c(13,12): warning C4129: 'S': unrecognized character escape sequence
+  statickePole.c
+  Generating Code...
+  c_2020_10_15.vcxproj -> C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\c_2020_10_15\x64\Debug\c_2020_10_15.exe

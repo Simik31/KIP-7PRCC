@@ -1,0 +1,7 @@
+﻿  cpp_zaverecna.cpp
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  cpp_zaverecna.vcxproj -> C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\Debug\cpp_zaverecna.exe

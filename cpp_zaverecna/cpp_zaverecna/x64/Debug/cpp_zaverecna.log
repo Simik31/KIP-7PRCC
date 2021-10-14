@@ -1,0 +1,4 @@
+﻿  cpp_zaverecna.cpp
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\cpp_zaverecna\cpp_zaverecna.cpp(59,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cpp_zaverecna.vcxproj -> C:\Users\msima\Studijní Materiály\3_semestr\KIP-7PRCC\cpp_zaverecna\x64\Debug\cpp_zaverecna.exe
